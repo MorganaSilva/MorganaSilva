@@ -34,18 +34,9 @@ With a 6-year journey in the tech world, my day-to-day is transforming complex a
 ##
 
 ### You can also find me at:
-&nbsp;<a href="https://www.linkedin.com/in/morgana-silva-prado">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>&nbsp;
-&nbsp;<a href="https://x.com/SilvaPrado12846">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
-</a>&nbsp;
-&nbsp;<a href="https://www.instagram.com/morganasp/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>&nbsp;
-&nbsp;<a href="mailto:mqn-13@live.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>&nbsp;
+<a href="https://linkedin.com/in/morgana-silva-prado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="morgana-silva-prado" height="30" width="40" /></a>
+<a href="https://x.com/SilvaPrado12846" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SilvaPrado12846" height="30" width="40" /></a>
+<a href="https://www.instagram.com/morganasp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="morganasp" height="30" width="40" /></a>
 
 ##
 
